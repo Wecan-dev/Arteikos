@@ -1,0 +1,231 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/arteikos
+Data file = /opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/content.xml
+Widget file = /opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/widgets.wie
+Customizer file = /opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Services Page Contact": Invalid post type wpcf7_contact_form
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Services Page Contact": Invalid post type wpcf7_contact_form
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Buscar - No Title - Widget already exists
+Categorías - No Title - Imported
+Formulario de suscripción de MailChimp - Newsletter - Imported
+
+Post Sidebar : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+(S&amp;E) Latest Projects - Recent Projects - Imported
+
+Page Sidebar : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+(S&amp;E) Latest Projects - Recent Projects - Imported
+Formulario de suscripción de MailChimp - Newsletter - Imported
+
+Footer 1 : 
+
+Texto - About Us - Imported
+
+Footer 2 : 
+
+Instagram Feed - Instagtam - Imported
+
+Footer 3 : 
+
+Nube de etiquetas - Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+/opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/slider1.zip/opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/slider2.zip/opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/slider3.zip

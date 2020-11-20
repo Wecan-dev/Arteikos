@@ -1,0 +1,29 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/arteikos
+Data file = /opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/content.xml
+Widget file = /opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/widgets.wie
+Customizer file = /opt/lampp/htdocs/arteikos/wp-content/themes/simple-elegant/inc/demos/main/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+

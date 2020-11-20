@@ -1,0 +1,39 @@
+/*
+Theme Name: Simple & Elegant Child
+Description: Child theme for Simple & Elegant Theme
+Author: Your name here
+Template: simple-elegant
+*/
+/* start write your custom CSS from here */
+
+.letra-azul, h2.callout-title, h4.iconbox-title, .vc_separator.vc_separator_align_center h4, #wi-copyright a, h3.widget-title 
+{
+    color: #00174a;
+	font-weight: bold!important;
+}
+a.wi-btn.btn-normal.btn-primary.btn-square, button.frm_button_submit {
+    background: #009b11!important;
+	border: 1px solid #009b11!important;
+	border-radius: 0px!important;
+}
+button.frm_button_submit:hover {
+	color: #009b11!important;
+	border: 1px solid #009b11!important;
+	background: #fff!important;
+	transition: 0.5s;
+}
+span.onsale {
+    background: #009b11!important;
+}
+div#wi-logo img {
+    width: 200px!important;
+}
+a.quickview-btn {
+    display: none!important;
+}
+.textwidget a {
+    color: #009b11;
+}
+.woocommerce-MyAccount-content a {
+    color: #606060!important;
+}
