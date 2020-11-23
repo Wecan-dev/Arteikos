@@ -37,3 +37,6 @@ a.quickview-btn {
 .woocommerce-MyAccount-content a {
     color: #606060!important;
 }
+a {
+	border-bottom: none!important;
+}
