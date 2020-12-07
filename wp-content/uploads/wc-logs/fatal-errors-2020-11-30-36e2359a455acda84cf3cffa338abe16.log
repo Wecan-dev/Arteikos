@@ -1,0 +1,2 @@
+2020-11-30T14:04:14+00:00 CRITICAL Out of memory (allocated 67108864) (tried to allocate 32768 bytes) en /var/www/html/Arteikos/wp-content/plugins/simple-elegant-addons/addons/button/params.php en la línea 1
+

@@ -13,4 +13,5 @@ function translate_text($translated) {
 return $translated;
 }
 
+
 ?>

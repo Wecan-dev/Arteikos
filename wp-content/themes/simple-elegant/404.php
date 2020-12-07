@@ -8,7 +8,7 @@
 
 get_header(); ?>
 
-<div id="page-wrapper">
+<div id="page-wrapper" style="background: #084477;">
     <div class="container">
     
         <section class="error-404 not-found">
